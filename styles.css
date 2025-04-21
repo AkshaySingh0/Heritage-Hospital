@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+table {
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+th, td {
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
